@@ -50,7 +50,7 @@
         <table class="table table-striped table-bordered">
           <thead class="thead-dark">
             <tr>
-              <th scope="col">ID</th>
+              <th scope="col">#</th>
               <th scope="col">Host:Port</th>
               <th class="disable_md_screen" scope="col">Country</th>
               <th class="disable_lg_screen" scope="col">Type</th>
