@@ -22,9 +22,14 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
   margin-top: 60px;
-  
 }
+html {
+  font-size: 14px;
+}
+
+@media (max-width: 768px) {
   html {
-    font-size: 14px;
+    font-size: 12px;
   }
+}
 </style>
